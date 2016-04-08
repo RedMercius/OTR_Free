@@ -56,7 +56,7 @@ public class ComedyActivity extends AppCompatActivity {
                 final Intent i = new Intent(ComedyActivity.this, SelectActivity.class);
                 i.putExtra("Selection", "Fibber McGee And Molly");
                 startActivity(i);
-                // TODO: Add popup for full version
+                // TODO: Add popup for full version 0
             }
         });
 
